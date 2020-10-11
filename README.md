@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-Dev.to-grey?style=flat-square&logo=dev.to&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/13790266/ankush-singh">
-    <img src="https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Stackoverflowgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg-orange?style=flat-square&logo=stackoverflow&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/ankushsinghgandhi/">
     <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/>
